@@ -13,3 +13,8 @@ w
 Gapp/src/main/java/com/apolexian/image_recognition/BaseCameraActivity.kt,e\6\e680fd631e44a86302d0da96490ca5a294663e3e
 w
 Gapp/src/main/java/com/apolexian/image_recognition/ImageLabelActivity.kt,f\8\f816e51cc99fd9d35104280c117d4eb2f984304e
+A
+privacy_policy.md,9\0\90b13dcf07a8da17504aa1d0a58f31ea8727327c
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
